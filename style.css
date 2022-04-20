@@ -1,0 +1,38 @@
+body{
+    background-color: #83EEFF;
+}
+#title_div {
+    background-color:black ;
+    font: bold;
+    color: white;
+    height: 75px;
+    font-size: larger;
+}
+#title_div_2{
+    background-color: white;
+    color: black;
+    margin-bottom: 100px;
+}
+#imge_1{
+    width: 1000px;
+    height: 500px;
+}
+#ad_img_1{
+    width:500px;
+    margin-left: 150px;
+}
+#ad_2{
+    border: dashed black 2px;
+    padding: 40px;
+}
+#ad_1{
+    border: dotted black 2px;
+    padding: 40px;
+}
+#ad_3{
+    border: solid black 2px;
+    padding: 40px;
+}
+.button {
+    background-color: blue;
+}
